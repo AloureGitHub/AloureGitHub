@@ -1,19 +1,19 @@
-# HF-CCTV
+# Aloure
 <img src="https://count.getloli.com/get/@:fomalhaut1998?theme=moebooru" align="right" />
 
-## 一只低调—HF <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
+## Aloure <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
 
 ### 自我介绍
 <div></div>
-- 大家好，我是HF，来自马来西亚
+- 大家好，我是Aloure，来自马来西亚
 - 目前是一家国际网站搭建游客、做空性组织
 - 对数据结构与算法、前端、Linux驱动感兴趣
 - 欢迎光临我的Github 🍧
 
 ### 社交主页
 
-- <a href="https://hfz.pw"><img src="https://www.fomal.cc/favicon.ico" width="22" height="22" /></a>：个人网站，访问量累计30万+
-- <a href="https://space.bilibili.com/391961194"><img src="https://www.bilibili.com/favicon.ico" width="22" height="22" /></a>：Bilibili主页，播放量10万+，粉丝累计1400+
+- <a href="https://aloure-web.top/"><img src="https://www.fomal.cc/favicon.ico" width="22" height="22" /></a>：个人网站，访问量累计30万+
+- <a href="https://aloure-web.top/"><img src="https://www.bilibili.com/favicon.ico" width="22" height="22" /></a>：Bilibili主页，播放量10万+，粉丝累计1400+
 - <a href="https://leetcode.cn/u/fomalhaut1998/"><img src="https://leetcode.cn/favicon.ico" width="22" height="22" /></a>：LeetCode主页，粉丝累计100+
 
 ---
@@ -54,4 +54,4 @@
 
 ### 投喂作者🍭🍭🍭
 
-<a href="https://store.hfz.pw/buy/55" target="_blank" rel="noopener"><img style="height: 40px !important; width: 145px !important;" src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="投喂作者🍭" /></a>
+<a href="https://aloure-web.top/" target="_blank" rel="noopener"><img style="height: 40px !important; width: 145px !important;" src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="投喂作者🍭" /></a>
